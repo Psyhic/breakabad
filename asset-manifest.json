@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/breakabad/static/css/main.b8905e65.chunk.css",
+    "main.js": "/breakabad/static/js/main.060dd95d.chunk.js",
+    "main.js.map": "/breakabad/static/js/main.060dd95d.chunk.js.map",
+    "runtime-main.js": "/breakabad/static/js/runtime-main.eff72792.js",
+    "runtime-main.js.map": "/breakabad/static/js/runtime-main.eff72792.js.map",
+    "static/js/2.e3c16cc2.chunk.js": "/breakabad/static/js/2.e3c16cc2.chunk.js",
+    "static/js/2.e3c16cc2.chunk.js.map": "/breakabad/static/js/2.e3c16cc2.chunk.js.map",
+    "index.html": "/breakabad/index.html",
+    "precache-manifest.4b1ae944ecce0ea9c9192c7e856bfc05.js": "/breakabad/precache-manifest.4b1ae944ecce0ea9c9192c7e856bfc05.js",
+    "service-worker.js": "/breakabad/service-worker.js",
+    "static/css/main.b8905e65.chunk.css.map": "/breakabad/static/css/main.b8905e65.chunk.css.map",
+    "static/js/2.e3c16cc2.chunk.js.LICENSE.txt": "/breakabad/static/js/2.e3c16cc2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breakabad/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/breakabad/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/breakabad/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eff72792.js",
+    "static/js/2.e3c16cc2.chunk.js",
+    "static/css/main.b8905e65.chunk.css",
+    "static/js/main.060dd95d.chunk.js"
+  ]
+}
